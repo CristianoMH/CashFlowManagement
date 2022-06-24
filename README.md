@@ -1,2 +1,1 @@
-# CashFlowManagement
-Test script for config Cash flow management in BPM system
+API Automation for LOS Project , written based on Robot framework , install environment on folder ./python_setup_env
